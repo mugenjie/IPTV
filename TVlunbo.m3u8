@@ -11,16 +11,18 @@ http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51
 http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/爱奇艺.png",港式经典
 http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
-#EXTINF:-1 group-title="电影" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/斗鱼.png",周末电影院1
-http://zzy789.xyz/douyu1.php?id=3637726
-#EXTINF:-1 group-title="电影" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/斗鱼.png",周末电影院2
-http://zzy789.xyz/douyu1.php?id=3637765
-#EXTINF:-1 group-title="电影" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/咪咕.png",香港经典
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625759558
 #EXTINF:-1 group-title="电影" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/歪歪.png",香港赌片
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29900720
 #EXTINF:-1 group-title="电影" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/歪歪.png",经典动作
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353881242
+#EXTINF:-1 group-title="电影" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/电影.png",CHC动作电影
+http://39.134.19.252:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="电影" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/电影.png",CHC高清电影
+http://39.134.19.252:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="电影" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/电影.png",CHC家庭影院
+http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="电影" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/电影.png",DVD电影院
+http://117.148.179.159/PLTV/88888888/224/3221231640/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/电影.png",星卫电影
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
 #EXTINF:-1 group-title="电影" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/电影.png",黑莓电影
@@ -31,10 +33,10 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND
 #EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/哔哩.png",哆啦A梦
 http://106.53.212.251/daili/bili.php?id=1717236
-#EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/哔哩.png",犬夜叉
-http://106.53.212.251/daili/bili.php?id=2010774
 #EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/哔哩.png",蜡笔小新
 http://106.53.212.251/daili/bili.php?id=10375360
+#EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/哔哩.png",犬夜叉
+http://106.53.212.251/daili/bili.php?id=2010774
 #EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/哔哩.png",中华小子
 http://106.53.212.251/daili/bili.php?id=22194340
 #EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/哔哩.png",光能使者/魔动王
@@ -53,24 +55,58 @@ http://zzy789.xyz/douyu1.php?id=9837291
 https://epg.112114.xyz/huya/11352946
 #EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/虎牙.png",一人之下
 https://epg.112114.xyz/huya/11602065
-#EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/虎牙.png",中华小当家
-https://epg.112114.xyz/huya/11342413
-#EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",欢笑剧场
-http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",动漫秀场
-http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",北京IPTV淘baby
-http://39.134.134.89/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOBGhARyizMEPlAOe9nM1b5Q%3D%3D%3A20211105223205%2C10000100000000050000000003887496%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-#EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",北京卡酷少儿
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",卡酷少儿
 http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
-#EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",哈哈炫动
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",哈哈炫动
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",福州少儿
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",福州少儿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-#EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",黑莓动画
-http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
-#EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",南京少儿
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",河北少儿
+http://live6.plus.hebtv.com/sekjx/hd/live.m3u8
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",重庆少儿
+http://starylw.yagetang.cn:4000/udp/225.0.4.191:7980
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",深圳少儿
+http://ye23.win/iptv/sztv.php?id=7
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",济南少儿
+http://39.136.48.8:8089/PLTV/88888888/224/3221225979/index.m3u8
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",金鹰卡通
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jykt/1300000/mnf.m3u8
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",优漫卡通
+http://39.135.138.59:18890/PLTV/88888910/224/3221225665/index.m3u8
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",黑莓动画
+http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",百视通动画1
+http://39.135.55.105:6610/PLTV/88888888/224/3221226732/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",百视通动画2
+http://39.135.55.105:6610/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",百视通动画3
+http://39.135.55.105:6610/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",百视通动画4
+http://39.135.55.105:6610/PLTV/88888888/224/3221226743/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",百视通动画5
+http://39.135.55.105:6610/PLTV/88888888/224/3221227036/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",动画乐园
+http://211.94.219.178:18080/PLTV/68/224/3221226406/index.m3u8
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",怀旧动画
+http://118.26.120.36:55336/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",童年经典
+http://118.26.120.23:55336/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",欢笑剧场
+http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",动漫秀场
+http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",北京IPTV淘baby
+http://39.134.134.89/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOBGhARyizMEPlAOe9nM1b5Q%3D%3D%3A20211105223205%2C10000100000000050000000003887496%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",喜羊羊
+http://118.26.120.23:55336/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",小猪佩奇
+http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",奥特曼
+http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
+#EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",爱奇艺宝宝巴士
+http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=08b3f8f3a31f12001f96a0f53163b0596
 #EXTINF:-1 group-title="游戏" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/英雄联盟.png",英雄联盟
 https://epg.112114.xyz/huya/660000
 #EXTINF:-1 group-title="游戏" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/永劫无间.png",永劫无间
@@ -85,6 +121,8 @@ https://epg.112114.xyz/huya/660006
 https://epg.112114.xyz/huya/461698
 #EXTINF:-1 group-title="游戏" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/游戏2.png",哒啵赛事
 http://39.135.138.60:18890/PLTV/88888910/224/3221225653/index.m3u8
+#EXTINF:-1 group-title="游戏" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/游戏风云.png",游戏风云
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/虎牙.png",陈翔六点半
 https://epg.112114.xyz/huya/11274154
 #EXTINF:-1 group-title="其他" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/虎牙.png",陈佩斯朱时茂小品
@@ -93,8 +131,26 @@ https://epg.112114.xyz/huya/20985776
 http://zzy789.xyz/douyu1.php?id=9642554
 #EXTINF:-1 group-title="其他" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/综艺.png",相声小品
 http://117.148.179.160/PLTV/88888888/224/3221231570/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/综艺.png",北京IPTV淘娱乐
+http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 group-title="其他" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/斗鱼.png",小姐姐
+http://zzy789.xyz/douyu1.php?id=8901218
 #EXTINF:-1 group-title="4K" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/4K1.png",CCTV4K
-http://iptv.tvfix.org/hls/cctv4k.m3u8
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 group-title="4K" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/4K1.png",CCTV-4K
+http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="4K" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/4K1.png",纯享4K
+http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 group-title="4K" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/4K1.png",冬奥纪实
+http://117.148.179.157/PLTV/88888888/224/3221233356/index.m3u8
+#EXTINF:-1 group-title="4K" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/4K1.png",冬奥纪实4K
+http://117.148.179.157/PLTV/88888888/224/3221233448/index.m3u8
+#EXTINF:-1 group-title="4K" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/4K1.png",冬奥纪实8K
+http://117.148.179.157/PLTV/88888888/224/3221233142/index.m3u8
+#EXTINF:-1 group-title="4K" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/4K1.png",冬奥纪实8K
+http://117.148.179.157/PLTV/88888888/224/3221233395/index.m3u8
+#EXTINF:-1 group-title="4K" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/4K1.png",CCTV8K
+http://hms2864nc1972666629.live.aikan.miguvideo.com/wh7f454c46tw2868693761_-1969027562/PLTV/88888888/224/3221233413/1.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/4K1.png",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/4K1.png",北京IPTV4K超清
