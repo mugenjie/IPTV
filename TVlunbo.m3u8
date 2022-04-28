@@ -135,20 +135,8 @@ http://117.148.179.160/PLTV/88888888/224/3221231570/index.m3u8
 http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 group-title="其他" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/斗鱼.png",小姐姐
 http://zzy789.xyz/douyu1.php?id=8901218
-#EXTINF:-1 group-title="4K" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/4K1.png",CCTV4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/4K1.png",CCTV-4K
 http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="4K" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/4K1.png",纯享4K
-http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/4K1.png",冬奥纪实
-http://117.148.179.157/PLTV/88888888/224/3221233356/index.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/4K1.png",冬奥纪实4K
-http://117.148.179.157/PLTV/88888888/224/3221233448/index.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/4K1.png",冬奥纪实8K
-http://117.148.179.157/PLTV/88888888/224/3221233142/index.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/4K1.png",冬奥纪实8K
-http://117.148.179.157/PLTV/88888888/224/3221233395/index.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/4K1.png",CCTV8K
 http://hms2864nc1972666629.live.aikan.miguvideo.com/wh7f454c46tw2868693761_-1969027562/PLTV/88888888/224/3221233413/1.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/4K1.png",纯享4K
