@@ -33,8 +33,6 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND
 #EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/哔哩.png",哆啦A梦
 https://epg.112114.xyz/bili/1717236
-#EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/哔哩.png",蜡笔小新
-https://epg.112114.xyz/bili/10375360
 #EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/哔哩.png",犬夜叉
 https://epg.112114.xyz/bili/2010774
 #EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/哔哩.png",中华小子
@@ -55,6 +53,8 @@ http://zzy789.xyz/douyu1.php?id=9837291
 https://epg.112114.xyz/huya/11352946
 #EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/虎牙.png",一人之下
 https://epg.112114.xyz/huya/11602065
+#EXTINF:-1 group-title="动漫" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/虎牙.png",蜡笔小新
+https://epg.112114.xyz/huya/11352970
 #EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",卡酷少儿
 http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 #EXTINF:-1 group-title="少儿" tvg-logo="https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/png/嘉佳卡通.png",哈哈炫动
