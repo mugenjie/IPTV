@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/10.jpg",
-"spider":""spider":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/custom_spider.jar",
+"spider":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/custom_spider.jar",
 "sites":[
 {"key":"010爱资源","name":"010爱资源","type":0,"api":"http://www.010aizy.com/API/macs.php","searchable":0,"quickSearch":0},
 {"key":"1024资源","name":"1024资源","type":0,"api":"https://www.1024nf.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
