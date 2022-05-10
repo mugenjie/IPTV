@@ -326,7 +326,6 @@
 {"name":"滴哩TV","url":"https://app.diliktv.xyz/jx/?url="},
 {"name":"迪奥","url":"https://123.1dior.cn/?url="},
 {"name":"电影先生","url":"https://play.dianyi.ng/?url=","type":0},
-{"name":"叮当影视1","type":1,"url":"http://dt.hwh.ink/home/api?type=ys&uid=1297351&key=acdfklopqvwyKLOT39&url=","ext":{"flag":["qiyi","爱奇艺","奇艺","ltnb","renrenmi","qq","腾讯","mgtv","芒果","youku","优酷","letv","乐视"]}},
 {"name":"豆渣影视","type":1,"url":"https://fast.rongxingvr.cn:8866/api/?key=jtDZ22biNujOBLlgoe&url="},
 {"name":"独播社","type":1,"url":"https://ltnb.jeeves.vip/home/api?type=ys&uid=2492729&key=bkmopwEFMNQSUWXZ67&url=","ext":{"flag":["ltnb","ziqie"]}},
 {"name":"段友.日批","url":"https://jx.ns360.cn/1080/jiexi/?url="},
