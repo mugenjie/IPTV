@@ -175,7 +175,7 @@
 {"name":"38","type":0,"url":"https://jx.300ys.xyz/json/jianghu.php/?url="},
 {"name":"39","type":0,"url":"https://jb.vjiangbei.com/home/api?type=ys&uid=281459&key=dhlotwxzABCIJMT189&url="},
 {"name":"40","type":0,"url":"http://xxt.gbxy.net.cn/home/api?type=ys&uid=511247&key=aeikmrsyBGKTVY0267&url="},
-{"name":"41","type":0,"url":"https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid=
+{"name":"41","type":0,"url":"https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid="},
 {"name":"42","type":0,"url":"https://jf.96ym.cn/api/?key=4tuNi0EjxTYFzJIN5r&url="},
 {"name":"43","type":0,"url":"http://ts.yjhan.com:8090/api/?key=Y4GefMCIQJz23mc06R&url="},
 {"name":"44","type":0,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url="},
