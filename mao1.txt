@@ -1,7 +1,7 @@
 {"wallpaper":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/10.jpg",
 "spider":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/baikan.jar",
 "sites":[
-    {"key":"csp_appysv2_","name":"CC影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ccbug.cc/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_","name":"CC影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ccbug.cc/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_","name":"DC影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://chaorenbb.com/api.php/v1.vod"},
 {"key":"csp_appysv2_","name":"tvip","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.tvip.cc/api.php/v1.vod"},
 {"key":"csp_appysv2_","name":"阿里影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod"},
