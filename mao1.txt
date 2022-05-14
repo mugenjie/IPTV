@@ -329,7 +329,7 @@
 {"name":"飞鱼","url":"https://app.feiyu5.com/json/?url="},{"name":"1717","url":"http://www.1717yun.com/jx/ty.php?url="},
 {"name":"粉象视界","type":1,"url":"http://47.100.138.210:91/home/api?type=ys&uid=4476440&key=eghkvwxyFHORVX3478&url=","ext":{"flag":["mgtv","芒果","renrenmi","youku","优酷","qiyi","爱奇艺","奇艺"]}},
 {"name":"粉象视界1","type":1,"url":"http://api.vip123kan.vip/?url=","ext":{"flag":["qq","腾讯","mgtv","芒果","youku","优酷"]}},
-{"name":"粉象视界2","type":1,"url":"https://json.hfyrw.com/mao.go?url=","ext":{"flag":["qq","腾讯","youku","优酷","qiyi","爱奇艺","奇艺","mgtv","芒果","letv","乐视""ltnb",]}},
+{"name":"粉象视界2","type":1,"url":"https://json.hfyrw.com/mao.go?url=","ext":{"flag":["qq","腾讯","youku","优酷","qiyi","爱奇艺","奇艺","mgtv","芒果","letv","乐视","ltnb"]}},
 {"name":"粉象视界4","type":1,"url":"https://www.xinkanke.com/jiexi/go.php?url=","ext":{"flag":["ltnb"]}},
 {"name":"疯狂看","type":1,"url":"https://a.zhuijula.top/yun_api.php?url=","t":877,"i":"checkat2021-12-2819:45:25"},
 {"name":"扶风","type":1,"url":"https://vip.byteamone.cn/api/?key=vpO0packXeAp4XYCnA&url="},
