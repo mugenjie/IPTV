@@ -298,7 +298,7 @@
 {"name":"宝莲","url":"http://danmu.8old.cn/vip/?url="},
 {"name":"冰豆","url":"https://api.qianqi.net/vip/?url="},
 {"name":"步步高","url":"https://jx.xihujx.com/index.php?url="},
-{"name":"菜鸟追剧","type":1,"url":"https://apis.jxcxin.cn/api/jx?url=","ext":{"flag":["qq","腾讯","mgtv","芒果"]}},
+//{"name":"菜鸟追剧","type":1,"url":"https://apis.jxcxin.cn/api/jx?url=","ext":{"flag":["qq","腾讯","mgtv","芒果"]}},
 {"name":"陈家解析","url":"https://tv.cjt521.com/?url=","type":0},
 {"name":"初心极速","url":"https://player.5znn.pro/jiexi.php?url=","type":0},
 {"name":"初心影视","type":1,"url":"https://cs.024zs.com:4433/api/?key=ZGIAzc1y86fEENqYWb&url=","ext":{"flag":["qq","腾讯"]}},
