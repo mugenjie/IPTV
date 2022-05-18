@@ -21,7 +21,7 @@
 {"key":"csp_appys_v1_蜗牛动漫","name":"蜗牛动漫","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://woniudm.woniu.cyou:20000/mogai_api.php/v1.vod"},
 {"key":"一拳动漫","name":"一拳动漫","type":1,"api":"http://47.97.68.224/api.php/provide/vod/","playUrl":"json:http://103.40.246.5:6881/byg/json.php?url=","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"嘛哩嘛哩","name":"嘛哩动漫","type":1,"api":"https://malimali3.com/api.php/provide/vod/","playUrl":"https://jx.parwix.com:4433/player/?url=","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"csp_xpath_kuqimv","name":"酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/xpath/kuqimv.json"}
+{"key":"csp_xpath_kuqimv","name":"酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/xpath/kuqimv.json"}，
 //推送功能扩展（需v2.1.0.Beta6及以上版本）
 //需要在配置文件中，加入key为push_agent的站点，数据返回格式和普通爬虫一致
 //支持推送播放网盘链接
