@@ -1,4 +1,4 @@
-{"wallpaper":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/10.jpg",
+{
 "spider":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/baikan.jar",
 "sites":[
 {"key":"csp_77","name":"酷云77","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
