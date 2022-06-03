@@ -1,9 +1,8 @@
 {"wallpaper":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/10.jpg",
-"spider":"https://raw.githubusercontent.com/mugenjie/IPTV/master/mao/baikan.jar",
+"spider":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/baikan.jar",
 "sites":[
 {"key":"csp_77","name":"酷云77","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xpath_libv","name":"Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/mugenjie/IPTV/master/mao/xpath/libv.json
-"},
+{"key":"csp_xpath_libv","name":"Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/xpath/libv.json"},
  {"key":"csp_xpath_zxzj2","name":"在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/xpath/zxzj2.json"},
 {"key":"sogou_spider","name":"搜狗影视","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/xpath/sogou.json"},
 {"key":"csp_xpath_aikan","name":"爱看","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/xpath/aikan.json"},
