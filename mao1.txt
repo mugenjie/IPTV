@@ -1,5 +1,5 @@
 {"wallpaper":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/10.jpg",
-"spider":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/baikan.jar",
+"spider": "https://liu673cn.github.io/mao/jar/custom_spider_t3.jar",
 "sites":[
 {"key":"csp_77","name":"酷云77","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_libv","name":"Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/xpath/libv.json"},
