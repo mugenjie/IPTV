@@ -7,7 +7,7 @@
 {"key":"sogou_spider","name":"搜狗影视","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/xpath/sogou.json"},
 {"key":"csp_xpath_aikan","name":"爱看","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://qiushan1.coding.net/p/iptv/d/IPTV/git/raw/master/mao/xpath/aikan.json"},
 {"key":"忆梦影视","name":"忆梦影视","type":1,"api":"http://anltv.cn/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动画"]},
-{"key":"wabc(腾讯直采)","name":"wabc(腾讯直采)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1,"categories":[]},
+{"key":"wabc(腾讯直采)","name":"wabc(腾讯直采)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"麒麟资源","name":"麒麟资源","type":1,"api":"http://www.qilinzyz.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1,"categories":["电影","连续剧","动画片"]},
 {"key":"看猫","name":"看猫","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫"]},
 {"key":"追剧吧","name":"追剧吧","type":1,"api":"http://gc.zhuijuba.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫"]},
